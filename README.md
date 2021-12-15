@@ -3,7 +3,7 @@
 I bring order to the chaos, turn coffee into code, automate processes, constantly develop
 
 ## 😄 About me 
-  _ _var me {<br>
+  _ _var me { _ _ <br>
       character: {<br>
           funny: 6,<br>
           friendliness: 8,<br>
