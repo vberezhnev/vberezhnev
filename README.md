@@ -3,7 +3,7 @@
 I bring order to the chaos, turn coffee into code, automate processes, constantly develop
 
 ## 😄 About me 
-  _ _var me { _ _ <br>
+  var me {<br>
       character: {<br>
           funny: 6,<br>
           friendliness: 8,<br>
@@ -11,7 +11,7 @@ I bring order to the chaos, turn coffee into code, automate processes, constantl
   }<br>
 
 
-  _ _if (friends <= 0) {<br>
+  if (friends <= 0) {<br>
     while (friends <= 0) {<br>
       Find()<br>
     }<br>
