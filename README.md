@@ -25,7 +25,7 @@ var me = {
 };
 ```
 
-## 📈 GitHub Stats
+## 📈 My GitHub Stats
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=tell396)
 
