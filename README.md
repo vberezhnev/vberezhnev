@@ -4,27 +4,7 @@ I bring order to the chaos, turn coffee into code, automate processes, constantl
 
 ## 😄 About me 
 
-```
-var me = {
-  character: {
-    funny: 6,
-    friendless: 8
-  },
-
-  aboutMe: {
-    aboutMe: "Hello! My name is Vladimir and I am FrontEnd Dev (Junior)",
-    technologies: "HTML, CSS, JavaScript, Linux, Git",
-    languages: "RussianNative, EnglishPreIntermediate",
-    hobby: "Astronomy, Physics"
-  },
-
-  contacts: {
-    linkedIn: "some_address",
-    codePen: "some_address",
-    codeSandBox: "some_address"
-  }
-};
-```
+![alt text](https://github.com/Tell396/Tell396/blob/f53f25639eb9d02c6373544deb0f7fadc0a208f9/img/code.png)
 
 ## 📈 GitHub Stats
 
