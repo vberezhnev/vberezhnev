@@ -4,12 +4,13 @@ I bring order to the chaos, turn coffee into code, automate processes, constantl
 
 ## 😄 About me 
 
-```      const me = {
+```
+const me = {
         character: {
           funny: 6,
           friendless: 8,
         },
-        
+
         aboutMe: {
           aboutMe: "Hello! My name is Vladimir and I am FrontEnd Dev (Junior)",
           technologies: ["HTML", "CSS", "JavaScript", "Linux", "Git"],
@@ -22,7 +23,8 @@ I bring order to the chaos, turn coffee into code, automate processes, constantl
           codePen: some_address,
           codeSandBox: some_address
         }
-      }```
+}
+```
 
 ## 📈 GitHub Stats
 
