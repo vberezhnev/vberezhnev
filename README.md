@@ -31,6 +31,6 @@ var me = {
 
 <br>
 
-[![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tell396&show_icons=true&theme=synthwave&bg_color=3CAFA1&text_color=ffff)](https://github.com/tell396/github-readme-stats)
+[![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tell396)]
 
 
