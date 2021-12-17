@@ -27,10 +27,10 @@ var me = {
 
 ## 📈 GitHub Stats
 
-[![My stats](https://github-readme-stats.vercel.app/api?username=tell396)]
+![My stats](https://github-readme-stats.vercel.app/api?username=tell396)
 
 <br>
 
-[![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tell396)]
+![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tell396)
 
 
