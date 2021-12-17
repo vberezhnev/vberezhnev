@@ -27,7 +27,8 @@ var me = {
 
 ## 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tell396&show_icons=true&theme=synthwave&bg_color=3CAFA1&text_color=ffff)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tell396&show_icons=true&theme=synthwave&bg_color=3CAFA1&text_color=ffff)](https://github.com/tell396/github-readme-stats)
