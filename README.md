@@ -1,4 +1,4 @@
-# 🙋 Welcome ![visitors](https://visitor-badge.glitch.me/badge?page_id=tell396) 
+# 🙋 Welcome ![](https://visitor-badge.glitch.me/badge?page_id=tell396) 
 
 I bring order to the chaos, turn coffee into code, automate processes, constantly develop
 
