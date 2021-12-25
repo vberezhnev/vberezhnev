@@ -12,7 +12,7 @@ var me = {
 
   aboutMe: {
     aboutMe: "Hello! My name is Vladimir and I am FrontEnd Dev (Junior)",
-    technologies: "HTML, CSS, JavaScript, Linux, Git",
+    technologies: "HTML, Scss/Sass, CSS, JavaScript, Linux, Git",
     languages: "RussianNative, EnglishPreIntermediate",
     hobby: "Astronomy, Physics"
   },
