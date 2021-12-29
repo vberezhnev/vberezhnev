@@ -1,7 +1,12 @@
 # 🙋 Welcome ![](https://visitor-badge.glitch.me/badge?page_id=tell396) 
 
-I bring order to the chaos, turn coffee into code, automate processes, constantly develop
-
+![HTML5](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5&logoColor=F16625)
+![CSS3](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3&logoColor=2A65F0)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=00D8FF)
+![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux&logoColor=9371CB)
+![Next.js](https://img.shields.io/badge/-Next.js-090909?style=for-the-badge&logo=Next.js&logoColor=green)
+  
 ## 😄 About me 
 ```
 var me = {
@@ -27,7 +32,7 @@ var me = {
 
 ## 📈 My GitHub Stats
 
-![My stats](https://github-readme-stats.vercel.app/api?username=tell396)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tell396&hide=html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
