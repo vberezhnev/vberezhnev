@@ -3,8 +3,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5&logoColor=F16625)
 ![CSS3](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3&logoColor=2A65F0)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![Scss](https://img.shields.io/badge/-Scss-090909?style=for-the-badge&logo=React&logoColor=00D8FF)
-![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Redux&logoColor=9371CB)
+![Scss](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=React&logoColor=00D8FF)
+![Linux](https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=Redux&logoColor=9371CB)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Next.js&logoColor=green)
   
 ## 😄 About me 
