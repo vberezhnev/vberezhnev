@@ -38,3 +38,5 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tell396&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
+
+https://github-readme-codewars-stats.herokuapp.com/api/?username=tell396&card&colormode=dark_mode
