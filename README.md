@@ -27,7 +27,7 @@
 ![Artix](https://img.shields.io/badge/Artix%20Linux-1793D1?logo=artix-linux&logoColor=fff&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
+![](https://github-readme-codewars-stats.herokuapp.com/api/?username=Tell396&badge&colormode=dark_mode)
 
 
 ## 📈 My GitHub Stats: ![](https://visitor-badge.glitch.me/badge?page_id=tell396) 
@@ -39,4 +39,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tell396&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
-https://github-readme-codewars-stats.herokuapp.com/api/?username=tell396&card&colormode=dark_mode
