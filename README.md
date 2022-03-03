@@ -1,5 +1,5 @@
-<h1 style="text-align: center;">
-  Hey there <img src="https://github.com/0xMrNight/0xMrNight/blob/main/assets/wave.gif?raw=true" width="28px">
+<h1 align="center">
+  Hey there, I am Berezhnev<img src="https://github.com/0xMrNight/0xMrNight/blob/main/assets/wave.gif?raw=true" width="28px">
 </h1>
 
 ## About Me:
@@ -30,19 +30,16 @@
 ![Artix](https://img.shields.io/badge/Artix%20Linux-1793D1?logo=artix-linux&logoColor=fff&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![](https://github-readme-codewars-stats.herokuapp.com/api/?username=Tell396&badge&colormode=dark_mode)
+<p align="center">
+  <img src="https://github-readme-codewars-stats.herokuapp.com/api/?username=Tell396&badge&colormode=dark_mode" />
+</p>
 
 
 ## 📈 My GitHub Stats:
 
-<img src="https://activity-graph.herokuapp.com/graph?username=tell396&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true">
-
-[![Tell396's GitHub stats](https://github-readme-stats.vercel.app/api?username=tell396&hide=issues&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tell396&theme=dark)](https://git.io/streak-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tell396&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-
-
-
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=tell396&bg_color=2e3440&color=ecefee&line=80cbc4&point=ffffff&area=true&hide_border=true" width="900"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tell396&theme=nord_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tell396&theme=nord_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tell396&theme=dark&layout=compact" width="680" />
+</p>
