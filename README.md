@@ -22,7 +22,10 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ![Artix](https://img.shields.io/badge/Artix%20Linux-1793D1?logo=artix-linux&logoColor=fff&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -30,7 +33,9 @@
 ![](https://github-readme-codewars-stats.herokuapp.com/api/?username=Tell396&badge&colormode=dark_mode)
 
 
-## 📈 My GitHub Stats: ![](https://visitor-badge.glitch.me/badge?page_id=tell396) 
+## 📈 My GitHub Stats:
+
+<img src="https://activity-graph.herokuapp.com/graph?username=tell396&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true">
 
 [![Tell396's GitHub stats](https://github-readme-stats.vercel.app/api?username=tell396&hide=issues&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
@@ -38,4 +43,6 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tell396&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
+
+
 
