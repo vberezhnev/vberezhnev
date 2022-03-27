@@ -40,7 +40,7 @@
 ## 📈 My GitHub Stats:
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=tell396&bg_color=2e3440&color=ecefee&line=80cbc4&point=ffffff&area=true&hide_border=true" width="900"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=tell396&bg_color=44454d&color=cfeefc&line=80cbc4&point=ffffff&area=false&hide_border=false" width="900"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tell396&theme=nord_dark"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tell396&theme=nord_dark" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tell396&theme=dark&layout=compact" width="680" />
