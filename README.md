@@ -1,11 +1,9 @@
 <h1 align="center">
-  Hey there, I am Berezhnev<img src="https://github.com/0xMrNight/0xMrNight/blob/main/assets/wave.gif?raw=true" width="28px">
+  Hey there, I am Berezhnev<img src="https://github.com/0xMrNight/0xMrNight/blob/main/assets/wave.gif?raw=false" width="28px">
 </h1>
 
 ## About Me:
-
 <h4> Hello! My name is Vladimir and I am FrontEnd Dev (Junior)</h4>
-<br>
 
 - <b>Languages</b>: RussianNative, EnglishPreIntermediate
 - <b>Hobby</b>: Astronomy, Physics, Chess
@@ -34,9 +32,9 @@
 ![Artix](https://img.shields.io/badge/Artix%20Linux-1793D1?logo=artix-linux&logoColor=fff&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-codewars-stats.herokuapp.com/api/?username=Tell396&badge&colormode=dark_mode" />
-</p>
+</p> -->
 
 
 ## 📈 My GitHub Stats:
