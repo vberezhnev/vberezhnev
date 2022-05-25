@@ -6,7 +6,7 @@
 <h4> Hello! My name is Vladimir and I am FrontEnd Developer!</h4>
 
 - <b>Languages</b>: RussianNative, EnglishPreIntermediate
-- <b>Hobby</b>: Astronomy, Physics, Chess
+- <b>Hobby</b>: Astronomy, Violin
 
 <br>
 
