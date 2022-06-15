@@ -3,14 +3,16 @@
 </h1>
 
 ## About Me:
-<h4> Hello! My name is Vladimir and I am FullStack Developer!</h4>
+<center>
+  Hello! My name is Vladimir and I am FullStack Developer!
 
 - <b>Languages</b>: Russian (Native), English (PreIntermediate)
 - <b>Hobby</b>: Astronomy, Violin
-
+</center>
+  
 <br>
 
-FrontEnd:
+**FrontEnd:**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -23,15 +25,14 @@ FrontEnd:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-BackEnd:
+**BackEnd:**
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Other:
-
+**Other:**
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
