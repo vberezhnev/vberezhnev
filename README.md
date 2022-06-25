@@ -6,7 +6,7 @@
 <center>
   Hello! My name is Vladimir and I am FullStack Developer!
 
-- <b>Languages</b>: Russian (Native), English (PreIntermediate)
+- <b>Languages</b>: Russian (Native)
 - <b>Hobby</b>: Astronomy, Violin
 </center>
   
