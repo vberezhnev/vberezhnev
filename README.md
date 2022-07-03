@@ -24,7 +24,6 @@
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-
 **BackEnd:**
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -49,7 +48,6 @@
 
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=tell396&hide_title=true&bg_color=44454d&color=cfeefc&line=80cbc4&point=ffffff&area=false&hide_border=true" width="900"/>
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tell396&layout=compact&theme=nord" width="680" /> -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tell396&theme=nord_dark"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tell396&theme=nord_dark" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tell396&theme=dark&layout=compact" width="680" />
