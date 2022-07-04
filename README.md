@@ -2,7 +2,7 @@
   Hey there, I am Berezhnev <img src="https://github.com/0xMrNight/0xMrNight/blob/main/assets/wave.gif?raw=false" width="32">
 </h1>
 
-## About Me:
+<h2 align="center">About Me</h2>:
 <center>
   Hello! My name is Vladimir and I am FullStack Developer!
 
@@ -42,7 +42,7 @@
 </p> -->
 
 
-## 📈 My GitHub Stats:
+<h2 align="center"> 📈 My GitHub Stats: </h2>
 
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=tell396&hide_title=true&bg_color=44454d&color=cfeefc&line=80cbc4&point=ffffff&area=false&hide_border=true" width="900"/>
