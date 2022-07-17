@@ -2,7 +2,7 @@
   Hey there, I am Berezhnev <img src="https://github.com/0xMrNight/0xMrNight/blob/main/assets/wave.gif?raw=false" width="32">
 </h1>
 
-<h2 align="center">About Me</h2>:
+<h2 align="center">About Me</h2>
 <center>
   Hello! My name is Vladimir and I am FullStack Developer!
 
@@ -17,8 +17,9 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)\
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -42,7 +43,7 @@
 </p> -->
 
 
-<h2 align="center"> 📈 My GitHub Stats: </h2>
+<h2 align="center"> 📈 My GitHub Stats </h2>
 
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=tell396&hide_title=true&bg_color=44454d&color=cfeefc&line=80cbc4&point=ffffff&area=false&hide_border=true" width="900"/>
