@@ -2,9 +2,9 @@
   Hey there, I am Berezhnev <img src="https://github.com/0xMrNight/0xMrNight/blob/main/assets/wave.gif?raw=false" width="32">
 </h1>
 
-<h2 align="center">About Me</h2>
+<h2 align="center">About Me 😃</h2>
 <center>
-  Hello! My name is Vladimir and I'm FullStack Developer!
+  Hello! My name is Vladimir and I'm <b>FullStack</b> Developer!
 
 - <b>Languages</b>: Russian (Native), English (Pre-Intermediate)
 - <b>Hobby</b>: Astronomy, Violin
@@ -27,9 +27,10 @@
 **BackEnd:**
 
 ![Golang](https://img.shields.io/badge/golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)\
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)\
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **DevOps:**
@@ -44,7 +45,7 @@
 </p> -->
 
 
-<h2 align="center"> 📈 My GitHub Stats </h2>
+<h2 align="center">My GitHub Stats 📈</h2>
 
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=tell396&hide_title=true&bg_color=44454d&color=cfeefc&line=80cbc4&point=ffffff&area=false&hide_border=true" width="900"/>
