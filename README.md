@@ -4,8 +4,9 @@
 
 <h2 align="center">About Me 😃</h2>
 <center>
-- <b>Languages</b>: Russian (Native), English (Intermediate)
-- <b>Hobby</b>: Astronomy, Violin
+  - <b>Languages</b>: Russian (Native), English (Intermediate)
+  <br>
+  - <b>Hobby</b>: Astronomy, Violin
 </center>
   
 <br>
