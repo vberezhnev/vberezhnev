@@ -4,9 +4,7 @@
 
 <h2 align="center">About Me 😃</h2>
 <center>
-  Hello! My name is Vladimir and I'm <b>FullStack</b> Developer!
-
-- <b>Languages</b>: Russian (Native), English (Pre-Intermediate)
+- <b>Languages</b>: Russian (Native), English (Intermediate)
 - <b>Hobby</b>: Astronomy, Violin
 </center>
   
