@@ -49,9 +49,9 @@
 
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=tell396&theme=react" width="900"/>
+  <img src="https://streak-stats.demolab.com?user=Tell396&theme=react" width="680" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tell396&theme=nord_dark"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tell396&theme=nord_dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tell396&theme=dark&layout=compact" width="680" />
   <br/>
   <img src="https://api.githubtrends.io/user/svg/Tell396/repos?time_range=one_year&theme=dark" width="400" />
 </p>
