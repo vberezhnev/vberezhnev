@@ -23,7 +23,7 @@
   <br>
 	<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 	<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-	<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 </div>
 
@@ -34,10 +34,10 @@
 <div align="center">
 	<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
 	<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-	<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+	<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
-	<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
+	<img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" />
   <br>
 	<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
@@ -46,7 +46,18 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> 
+</div>
+
+<h2 align="center">Other:</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
 </div>
 
 
@@ -58,10 +69,15 @@
 <h2 align="center">My GitHub Stats 📈</h2>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=tell396&theme=react" width="900"/>
-  <img src="https://streak-stats.demolab.com?user=Tell396&theme=react" width="680" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tell396&theme=nord_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tell396&theme=nord_dark" />
-  <br/>
-  <img src="https://api.githubtrends.io/user/svg/Tell396/repos?time_range=one_year&theme=dark" width="400" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=tell396&theme=tokyonight" width="900"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tell396&theme=tokyonight" />
+
+  <img src="https://streak-stats.demolab.com?user=Tell396&theme=tokyonight" width="680" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tell396&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tell396&theme=tokyonight" />
+  <br />
+  <img src="https://api.githubtrends.io/user/svg/Tell396/repos?time_range=two_years&theme=dark" width="400" />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=tell396" /> 
+
 </p>
