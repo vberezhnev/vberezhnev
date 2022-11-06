@@ -81,6 +81,6 @@
   <br />
   <img src="https://api.githubtrends.io/user/svg/Tell396/repos?time_range=two_years&theme=dark" width="400" />
   <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=tell396" /> 
+  <img src="https://github-profile-trophy.vercel.app/?username=tell396&border=none" /> 
 
 </p>
