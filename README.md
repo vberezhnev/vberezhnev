@@ -1,8 +1,14 @@
+<p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
+<p align="center"><i>- Aaron Swartz (2013 ~ 1986) -</i></p>
+
+
+<details>
+<summary>more</summary>
 <h1 align="center">
   Hey there, I am Berezhnev <img src="https://github.com/0xMrNight/0xMrNight/blob/main/assets/wave.gif?raw=false" width="32">
 </h1>
 
-<h2 align="center">About Me 😃</h2>
+<h2 align="center">About Me</h2>
 <center>
   - <b>Languages</b>: Russian (Native), English (Intermediate)
   <br>
@@ -84,3 +90,5 @@
   <img src="https://github-profile-trophy.vercel.app/?username=tell396&border=none" /> 
 
 </p>
+	
+</details>
