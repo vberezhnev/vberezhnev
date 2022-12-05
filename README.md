@@ -3,10 +3,10 @@
 
 
 <details>
-<summary>more</summary>
-<h1 align="center">
+<summary>View more</summary>
+<h2 align="center">
   Hey there, I am Berezhnev <img src="https://github.com/0xMrNight/0xMrNight/blob/main/assets/wave.gif?raw=false" width="32">
-</h1>
+</h2>
 
 <h2 align="center">About Me</h2>
 <center>
