@@ -13,7 +13,7 @@
   
 <br>
 
-<h1 align="center">FrontEnd:</h1>
+<h3 align="center">FrontEnd:</h3>
   
 <div align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -31,7 +31,7 @@
 
 
 
-<h1 align="center">BackEnd:</h1>
+<h3 align="center">BackEnd:</h1>
 
 <div align="center">
 	<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> 
 </div>
 
-<h2 align="center">Other:</h2>
+<h3 align="center">Other:</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white" />
@@ -71,7 +71,7 @@
 </p> -->
 
 
-<h2 align="center">My GitHub Stats 📈</h2>
+<h3 align="center">My GitHub Stats 📈</h3>
 
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=tell396&theme=tokyonight" width="900"/>
