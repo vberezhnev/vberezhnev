@@ -44,7 +44,7 @@
 	<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
-<h1 align="center">DevOps:</h1>
+<h3 align="center">DevOps:</h1>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -74,7 +74,7 @@
 <h3 align="center">My GitHub Stats 📈</h3>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=tell396&theme=tokyonight" width="900"/>
+  <!-- <img src="https://activity-graph.herokuapp.com/graph?username=tell396&theme=tokyonight" width="900"/> -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tell396&theme=tokyonight" />
 
   <img src="https://streak-stats.demolab.com?user=Tell396&theme=tokyonight" width="680" />
