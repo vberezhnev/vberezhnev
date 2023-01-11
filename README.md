@@ -37,13 +37,12 @@
       </a>
       <br>React
     </td>
-    <td align="center" width="96"> 
+    <!-- <td align="center" width="96"> 
       <a href="#tell396-stack" >
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
       </a>
       <br>Redux
-    </td>
-    </td>
+    </td> -->
 <td align="center" width="96">
       <a href="#tell396-stack">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
