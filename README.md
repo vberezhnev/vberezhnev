@@ -9,6 +9,7 @@
   - <b>Languages</b>: Russian (Native), English (Intermediate), Latin (???)
   <br>
   - <b>Hobby</b>: Astronomy, Violin
+  - I write <a href="https://habr.com/ru/users/Tell997/">interestiong articles about programming, astronomy (etc.) on Habr!</a>
 </center>
   
 <br>
