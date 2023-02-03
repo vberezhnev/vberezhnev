@@ -10,7 +10,7 @@
   <br>
   - <b>Hobby</b>: Astronomy, Violin
   <br>
-  - Also I write <a href="https://habr.com/ru/users/Tell997/">interestiong articles about programming, astronomy (etc.) on Habr!</a>
+  - Also I write <a href="https://habr.com/ru/users/Tell997/">interesting articles about programming, astronomy (etc.) on Habr!</a>
 </center>
   
 <br>
