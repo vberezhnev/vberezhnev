@@ -125,12 +125,6 @@
     </td>
 <td align="center" width="96">
       <a href="#tell396-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1920px-Go_Logo_Blue.svg.png" width="48" height="48" alt="Go"         />
-      </a>
-      <br>Go
-    </td>
-<td align="center" width="96">
-      <a href="#tell396-stack">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1024px-Postgresql_elephant.svg.png" width="48" height="48" alt="PostgreSQL"         />
       </a>
       <br>PostgreSQL
