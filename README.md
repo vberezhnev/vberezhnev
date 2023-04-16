@@ -144,12 +144,6 @@
     </td>
     <td align="center" width="96">
       <a href="#tell396-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Archlinux-vert-dark.svg/1280px-Archlinux-vert-dark.svg.png" width="48" height="48" alt="Arch" />
-      </a>
-      <br>Arch
-    </td>
-    <td align="center" width="96">
-      <a href="#tell396-stack">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/1024px-EmacsIcon.svg.png" width="48" height="48" alt="Emacs" />
       </a>
       <br>Emacs
