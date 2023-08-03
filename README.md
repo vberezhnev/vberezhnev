@@ -39,12 +39,19 @@
       </a>
       <br>React
     </td>
-    <!-- <td align="center" width="96"> 
-      <a href="#tell396-stack" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
+	<td align="center" width="96">
+      <a href="#tell396-stack">
+        <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo" />
       </a>
-      <br>Redux
-    </td> -->
+      <br>Next.js
+    </td>
+		<td align="center">
+			<a href="https://redux.js.org/" targer="_blank">
+		  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" alt="redux logo" />
+			</a>
+		  <br />
+		  Redux
+		</td>
 <td align="center" width="96">
       <a href="#tell396-stack">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
@@ -68,24 +75,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
       </a>
       <br>Tailwind
-    <td align="center" width="96">
-      <a href="#tell396-stack" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
-      </a>
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <a href="#tell396-stack" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96"> 
-      <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="48" height="48" alt="npm" />
-      </a>
-      <br>Npm
-    </td>
+
   </tr> 
 </table>
 
@@ -110,12 +100,6 @@
         <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="48" height="48" alt="Node.js"         />
       </a>
       <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <a href="#tell396-stack">
-        <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo" />
-      </a>
-      <br>Next.js
     </td>
     <td align="center" width="96">
       <a href="#tell396-stack">
@@ -159,6 +143,24 @@
         <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" width="48" height="48" alt="Jira" />
       </a>
       <br>Jira
+    </td>
+	      <td align="center" width="96">
+      <a href="#tell396-stack" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
+      </a>
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <a href="#tell396-stack" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96"> 
+      <a href="#debabin-stack" >
+        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="48" height="48" alt="npm" />
+      </a>
+      <br>Npm
     </td>
   </tr> 
 </table>
