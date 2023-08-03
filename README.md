@@ -6,7 +6,7 @@
 <summary>View more</summary>
 <h2 align="center">About Me</h2>
 <center>
-  - <b>Languages</b>: Russian (Native), English (B1-B2), German (A1), Czech (A1), Latin (???)
+  - <b>Languages</b>: <b>Russian</b> <i>(Native)</i>, <b>English</b> <i>(B1-B2)</i>, <b>German</b> <i>(A1)</i>, <b>Czech</b> <i>(A1)</i>, <b>Latin</b> <i>(???)</i>
   <br>
   - <b>Hobby</b>: Astronomy, Violin
   <br>
