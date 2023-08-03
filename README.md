@@ -6,7 +6,7 @@
 <summary>View more</summary>
 <h2 align="center">About Me</h2>
 <center>
-  - <b>Languages</b>: Russian (Native), English (Intermediate), Latin (???)
+  - <b>Languages</b>: Russian (Native), English (B1-B2), German (A1), Czech (A1), Latin (???)
   <br>
   - <b>Hobby</b>: Astronomy, Violin
   <br>
@@ -101,7 +101,7 @@
     </td>
     <td align="center" width="96">
       <a href="#tell396-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="48" height="48" alt="Express"         />
+        <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo" />
       </a>
       <br>Express.js
     </td>
@@ -113,7 +113,7 @@
     </td>
     <td align="center" width="96">
       <a href="#tell396-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1920px-Nextjs-logo.svg.png" width="48" height="48" alt="Next.js"         />
+        <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo" />
       </a>
       <br>Next.js
     </td>
