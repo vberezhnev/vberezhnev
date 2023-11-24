@@ -168,22 +168,5 @@
 <!-- <p align="center">
   <img src="https://github-readme-codewars-stats.herokuapp.com/api/?username=Tell396&badge&colormode=dark_mode" />
 </p> -->
-
-
-<h3 align="center">My GitHub Stats 📈</h3>
-
-<p align="center">
-  <!-- <img src="https://activity-graph.herokuapp.com/graph?username=tell396&theme=tokyonight" width="900"/> -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tell396&theme=tokyonight" />
-
-  <img src="https://streak-stats.demolab.com?user=Tell396&theme=tokyonight" width="680" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tell396&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tell396&theme=tokyonight" />
-  <br />
-  <img src="https://api.githubtrends.io/user/svg/Tell396/repos?time_range=two_years&theme=dark" width="400" />
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=tell396&border=none" /> 
-
-</p>
 	
 </details>
